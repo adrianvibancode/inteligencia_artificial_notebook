@@ -1,4 +1,4 @@
-# inteligencia_artificial_notebook
+# [inteligencia_artificial_notebook](https://github.com/adrianvibancode/inteligencia_artificial_notebook).
 
 ## Inteligencia artificial 
 ### Apuntes del curso
